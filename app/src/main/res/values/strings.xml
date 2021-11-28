@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">MasterDetailDesign</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="orient">portrait</string>
 </resources>
