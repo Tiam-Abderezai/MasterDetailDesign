@@ -4,6 +4,7 @@ import androidx.databinding.ObservableField
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import com.example.masterdetaildesign.data.Item
+import com.example.masterdetaildesign.utils.dummyList
 
 class ItemViewModel: ViewModel() {
 
